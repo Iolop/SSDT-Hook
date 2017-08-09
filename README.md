@@ -11,4 +11,4 @@ Q:why not on x64 platform?
 
 A:Because I can't get across the PG :( while at the same time, loading driver on x64 needs we sign the driver, but I can't do that. I can't promise, but I'll try to do that in the future.
 
-If there is any other problems, please commit. :)
+If there is any other problems, please comment in issues. :)
